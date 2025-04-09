@@ -20,6 +20,37 @@ Developed as part of a Data Science and Analytics project using tools like:
 - **Plotly Express** for rich, interactive visualizations
 - **Ipywidgets** for building dynamic user interfaces
 
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Ensure Python 3.7+ is installed.
+```bash
+python --version
+```
+Install required packages:
+
+Jupyter Notebook or Jupyter Lab
+If using VS Code, make sure the Jupyter extension is installed.
+To install Jupyter manually:
+```bash
+pip install notebook
+```
+
+You need to install necessary python libraries for this project 
+They include:
+✅pandas
+✅plotly 
+✅ipywidgets
+✅notebook
+✅numpy(optional)
+
+You can install them all at once:
+
+```bash
+pip install pandas plotly ipywidgets notebook
+```
+
 ---
 
 ## 📁 Repository Structure
@@ -46,21 +77,12 @@ Developed as part of a Data Science and Analytics project using tools like:
 - Most voted movies
 - Most popular genres by average score
 - Top 10 directors and stars
-
 ---
 
-## 🚀 Getting Started
 
-### ✅ Prerequisites
 
-Ensure Python 3.7+ is installed.
-```bash
-python --version
-```
-Install required packages:
 
-```bash
-pip install pandas plotly ipywidgets notebook
+
 
 
  
