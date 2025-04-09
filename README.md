@@ -39,11 +39,11 @@ pip install notebook
 
 You need to install necessary python libraries for this project 
 They include:
--✅pandas
--✅plotly 
--✅ipywidgets
--✅notebook
--✅numpy(optional)
+ ✅pandas
+ ✅plotly 
+ ✅ipywidgets
+ ✅notebook
+ ✅numpy(optional)
 
 You can install them all at once:
 
