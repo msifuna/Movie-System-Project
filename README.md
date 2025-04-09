@@ -54,7 +54,9 @@ Developed as part of a Data Science and Analytics project using tools like:
 ### ✅ Prerequisites
 
 Ensure Python 3.7+ is installed.
-
+```bash
+python --version
+```
 Install required packages:
 
 ```bash
