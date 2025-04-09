@@ -29,7 +29,7 @@ Developed as part of a Data Science and Analytics project using tools like:
 ## 📊 Key Features
 
 ### 🔍 Data Exploration
-- Group movies by **genre**, **stars**, **directors**
+- Group movies by **genre**, **rating**, **stars**, **directors**
 - Visualize based on **score**, **votes**, and **year**
 
 ### 📈 Visualizations
