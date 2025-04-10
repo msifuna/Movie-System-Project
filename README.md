@@ -40,6 +40,7 @@ pip install notebook
 You need to install necessary python libraries for this project 
 They include:
  ✅pandas
+ ✅Seaborn 
  ✅plotly 
  ✅ipywidgets
  ✅notebook
