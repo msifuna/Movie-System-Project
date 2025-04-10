@@ -21,7 +21,7 @@ Developed as part of a Data Science and Analytics project using tools like:
 - **Ipywidgets** for building dynamic user interfaces
 
 ## 🚀 Getting Started
-```bash
+
 ### ✅ Prerequisites
 
 Ensure Python 3.7+ is installed.
