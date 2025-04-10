@@ -1,7 +1,7 @@
 # Movie System Project
 # 🎬 iMovie System Project
 
-A comprehensive data analysis and visualization tool that explores insights from movie dataset using Python, Plotly, and interactive widgets. The project leverages Jupyter Notebooks and presents a dynamic and user-friendly interface for exploring genres, scores, votes, actors, and directors.
+A comprehensive data analysis and visualization tool that explores insights from a movie dataset using Python, Plotly, and interactive widgets. The project leverages Jupyter Notebooks and presents a dynamic and user-friendly interface for exploring genres, scores, votes, actors, and directors.
 
 A data visualization and exploration project analyzing a movie dataset using Python and Plotly Express. This notebook provides insights into movie genres, scores, popularity, and key contributors like actors and directors.
 
