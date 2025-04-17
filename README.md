@@ -24,7 +24,9 @@ Developed as part of a Data Science and Analytics project using tools like:
 - **Plotly Express** for rich, interactive visualizations
 - **Ipywidgets** for building dynamic user interfaces
 
-## 🚀 Getting Started
+## How to Run 
+
+## Getting Started: Requirements
 
 ### ✅ Prerequisites
 
@@ -83,6 +85,9 @@ pip install pandas plotly ipywidgets notebook
 - Most popular genres by average score
 - Top 10 directors and stars
 ---
+
+## Demo 
+![Alt text](/Users/michaelsifuna/Downloads/china.png)
 
 
 
