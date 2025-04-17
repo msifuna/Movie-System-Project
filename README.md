@@ -50,7 +50,7 @@ They include:
  - ✅plotly 
  - ✅ipywidgets
  - ✅notebook
- - ✅numpy(optional)
+ - ✅numpy
 
 You can install them all at once:
 
