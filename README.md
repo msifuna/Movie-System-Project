@@ -91,7 +91,7 @@ pip install pandas plotly ipywidgets notebook
 
 ## Acknowledgements
 
-- We downloaded the movie dataset from kaggle.com 
+- We downloaded the movie dataset from 
 <a href="kaggle.com" target="_blank">kaggle.com</a>
 
 
