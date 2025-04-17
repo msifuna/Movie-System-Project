@@ -91,7 +91,9 @@ pip install pandas plotly ipywidgets notebook
 
 ## Acknowledgements
 
-- We download the movie dataset from kaggle.com 
+- We downloaded the movie dataset from kaggle.com 
+<a href="https://www.openai.com" target="_blank">Visit OpenAI</a>
+
 
 
 
