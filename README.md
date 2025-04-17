@@ -45,12 +45,12 @@ pip install notebook
 
 You need to install necessary python libraries for this project 
 They include:
- ✅pandas
- ✅Seaborn 
- ✅plotly 
- ✅ipywidgets
- ✅notebook
- ✅numpy(optional)
+ - ✅pandas
+ - ✅Seaborn 
+ - ✅plotly 
+ - ✅ipywidgets
+ - ✅notebook
+ - ✅numpy(optional)
 
 You can install them all at once:
 
@@ -87,7 +87,7 @@ pip install pandas plotly ipywidgets notebook
 ---
 
 ## Demo 
-![Alt text](/Users/michaelsifuna/Downloads/china.png)
+- The screenshot folder is included in the directory
 
 
 
