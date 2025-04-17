@@ -1,5 +1,10 @@
-# Movie System Project
-# 🎬 iMovie System Project
+# Movie Recommendation System Project
+# 🎬 Movie System Project
+
+# Group Members:
+- Michael S. Barasa (msifuna)
+- Aaron Irakoze (aaronirakoze19)
+
 
 A comprehensive data analysis and visualization tool that explores insights from a movie dataset using Python, Plotly, and interactive widgets. The project leverages Jupyter Notebooks and presents a dynamic and user-friendly interface for exploring genres, scores, votes, actors, and directors.
 
