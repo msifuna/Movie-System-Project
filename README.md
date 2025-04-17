@@ -26,6 +26,14 @@ Developed as part of a Data Science and Analytics project using tools like:
 
 ## How to Run 
 
+- Run all the ipynb file to display different sections of the program.
+- The first section of the file contains the information and descriptions about the movie dataset.
+- The exploratory data analysis showcases visualization of different movies based of the genre, score, votes, stars, directors and etc.
+- The visual representation helps the user to visualize what genre of the movie they will be interested even before reaching the movie searching section.
+- The Genre section filters the movie genres which when clicking the drop-down menu, on any genre e.g Adventure it displays the top 10 movies with the highest ratings and votes on that genre.
+- The last section contains the search keyword part where a user can search for a movie, the dsiplayed result will be the searched movie, other movies that relate with the movie searched based on either genre or high rating. 
+- This program helps the user for movie recommendations based on the movies they have searched.
+
 ## Getting Started: Requirements
 
 ### ✅ Prerequisites
